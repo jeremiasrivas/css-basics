@@ -20,3 +20,8 @@ a {
 #education {
     border: 3px solid red;
 }
+
+#skills-list {
+    background-color: aliceblue;
+    padding: 36px;
+}
