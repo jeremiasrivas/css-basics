@@ -31,3 +31,9 @@ a {
     background-color: teal;
     color: papayawhip;
 }
+
+.date {
+    border: 2px solid steelblue;
+    border-radius: 12px;
+    padding: 6px;
+}
