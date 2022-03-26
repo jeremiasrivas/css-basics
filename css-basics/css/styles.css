@@ -39,6 +39,9 @@ ol li {
     letter-spacing: 3px;
     color: tomato;
 }
+ol li:first-child {
+font-weight: bold;
+}
 
 ul li {
     list-style: none;
