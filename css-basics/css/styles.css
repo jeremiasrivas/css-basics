@@ -26,6 +26,10 @@ a:visited{
     color: seagreen;
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
 ol li {
     letter-spacing: 3px;
     color: tomato;
