@@ -30,6 +30,11 @@ a:hover {
     text-decoration: underline;
 }
 
+a:focus {
+    color: white;
+    background-color: orange;
+}
+
 ol li {
     letter-spacing: 3px;
     color: tomato;
