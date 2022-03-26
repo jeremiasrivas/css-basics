@@ -25,3 +25,9 @@ a {
     background-color: aliceblue;
     padding: 36px;
 }
+
+.top-skill {
+    font-weight: bold;
+    background-color: teal;
+    color: papayawhip;
+}
