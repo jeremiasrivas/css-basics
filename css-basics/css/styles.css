@@ -22,9 +22,13 @@ a {
      text-decoration: none;
 }
 
-li {
+ol li {
     letter-spacing: 3px;
     color: tomato;
+}
+
+ul li {
+    list-style: none;
 }
 
 #education {
