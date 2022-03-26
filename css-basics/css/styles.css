@@ -37,3 +37,13 @@ a {
     border-radius: 12px;
     padding: 6px;
 }
+
+.special{
+    text-transform: uppercase;
+    background-color: papayawhip;
+}
+
+#proud {
+    font-size: 48px;
+    background-color: firebrick;
+}
