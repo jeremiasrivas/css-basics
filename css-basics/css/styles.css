@@ -22,6 +22,11 @@ a {
      text-decoration: none;
 }
 
+li {
+    letter-spacing: 3px;
+    color: tomato;
+}
+
 #education {
     border: 3px solid red;
 }
