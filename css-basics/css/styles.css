@@ -11,12 +11,23 @@
 
  header {
     background-color: orange;
+    width: 80%;
+    margin-left: 10%;
  }
 
  header p {
      background-color: snow;
     border-bottom: 1px solid gray;
  }
+
+ #header-box {
+    width: 50%;
+    background-color: tomato;
+ }
+img{
+    width: 100%;
+}
+
 
 footer {
     background-color: lightcoral;
